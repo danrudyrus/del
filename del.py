@@ -1,1 +1,2 @@
+#dividers
 n = int(input())
